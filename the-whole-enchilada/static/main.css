@@ -1,0 +1,54 @@
+.icon {
+    width: auto;
+    max-height: 65px
+}
+
+img {
+    width: 250px;
+    height: auto;
+    border: 5px solid gold;
+    margin: 5px;
+    float: center;
+}
+
+.card {
+    border: 5px solid black;
+    height: auto;
+    width: 300px;
+    background-color: rgb(20, 152, 235);
+    
+}
+
+body {
+    margin: 40px;
+    background-color: darkgreen;
+
+}
+
+.container-fluid {
+    background-color: gold;
+    margin: 5px;
+}
+
+.card > h1 {
+    text-align: center;
+    text-shadow: 2px 2px black
+}
+
+.card > img {
+    float: right;
+}
+
+button {
+    background-color: red;
+    color: goldenrod;
+    border-radius: 5px;
+
+}
+
+h1 {
+    background-color: rgb(17, 20, 228);
+    color: goldenrod;
+    text-align: center;
+    border-radius: 20px
+}
